@@ -1,2 +1,2 @@
-# SQL - Text Data Cleaning
-Dataset e código de exemplo para treinar limpeza de dados do tipo texto no MySQL.
+# SQL - Data Cleaning
+Datasets e códigos de exemplo para treinar limpeza de dados no MySQL.
